@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 #### Results
 Solution for the Schrodinger equation for potential $V(x) = 0$ and gaussian initial condition.
-![photo_2022-12-21 23.10.49.jpeg](images/photo_2022-12-21 23.10.49.jpeg)
-![photo_2022-12-21 23.10.47.jpeg](images/photo_2022-12-21 23.10.47.jpeg)
+![img1.jpeg](images/img1.jpeg)
+![img2.jpeg](images/img2.jpeg)
 
 
