@@ -17,4 +17,9 @@ pip install -r requirements.txt
 #### Run the experiment:
 [Google Colab](https://colab.research.google.com/drive/1gEyjGSFO83QNcnld5gcKQjIraO2V_RNX?usp=sharing)
 
+#### Results
+Solution for the Schrodinger equation for potential $V(x) = 0$ and gaussian initial condition.
+![image](images/photo_2022-12-21 23.10.49.jpeg)
+![image](images/photo_2022-12-21 23.10.47.jpeg)
+
 
