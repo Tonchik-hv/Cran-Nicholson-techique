@@ -5,3 +5,9 @@
 - Nikolay Kotoyants
 - Ekaterina Andreichuk
 - Antonina Kurdyukova
+
+#### Requirements for launching code
+```bat
+pip install -r requirements.txt
+```
+[requirements.txt]()
