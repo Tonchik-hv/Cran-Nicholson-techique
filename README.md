@@ -15,7 +15,8 @@ pip install -r requirements.txt
 [requirements.txt](https://raw.githubusercontent.com/Tonchik-hv/Crank-Nicholson-techique/main/code/requirements%20(1).txt)
 
 #### Run the experiment:
-[Google Colab](https://colab.research.google.com/drive/1gEyjGSFO83QNcnld5gcKQjIraO2V_RNX?usp=sharing)
+[Equation solver](https://colab.research.google.com/drive/1yJJvBGSN08RiHn0UmHCjxpb-UFD6pVKL?usp=sharingg)
+[Complexity and speedup experiments](https://colab.research.google.com/drive/13Y3PVcHeviVn3GmKbRAKUeAc4-1Y9K6w?usp=sharing)
 
 #### Results
 Solution for the Schrodinger equation for potential $V(x) = 0$ and gaussian initial condition.
